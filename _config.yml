@@ -1,8 +1,8 @@
 name: Imane KHALIS
-bio: 'Aspiring software engineer.C++, Python'
+bio: 'Aspiring software engineer, C++, Synhcronous programming languages'
 
 # main text of home
-picture: 'assets/images/profile.jpg'
+picture: 'assets/images/myprofile.jpg'
 
 url: http://imanekls.github.io
 # your url: http://USERNAME.github.io
@@ -24,7 +24,7 @@ linkedin: imane khalis
 #youtube: myyoutube
 #spotify: myspotify
 github: imanekls
-email: imane-khalis@hotmail.com.com
+email: imane-khalis@hotmail.com
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
