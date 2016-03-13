@@ -502,7 +502,8 @@ pre {
 .projects,
 .consulting /* arti-changes */ {
   margin-top: 125px;
-}
+},
++.resume,
 .home > .list,
 .blog > .list,
 .projects > .list {
